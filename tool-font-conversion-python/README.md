@@ -1,9 +1,9 @@
 # 使用 Python 进行字体格式转换
 
 ## 环境准备
-- 1. 确保安装了 Python 3.7+ 执行：`python --version`
-- 2. 安装 fonttools 执行：`pip install fonttools`
-- 3. 开发代码：`convert.py`
+- 1、确保安装了 Python 3.7+ 执行：`python --version`
+- 2、安装 fonttools 执行：`pip install fonttools`
+- 3、开发代码：`convert.py`
 - 补充：
     - 如果需要转换woff2格式转换失败，需要额外安装 brotli 库，执行：`pip install brotli`
     - 验证是否安装成功，执行：`python -c "import brotli; print('Brotli 库已成功安装，版本:', brotli.__version__)"`
