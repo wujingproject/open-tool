@@ -23,10 +23,6 @@
 - 执行：`pyftsubset FZYANS_ZHONGJW--GB1-0.ttf --text="测试" --output-file=output_small.ttf`
 - 执行：`pyftsubset FZYANS_ZHONGJW--GB1-0.ttf --text-file=3500常用字.txt --output-file=output_common_3500.ttf`
 
-- 执行：`python convert.py aaa.otf`
-- 执行：`pyftsubset aaa.ttf --text="测试" --output-file=output_small.ttf`
-- 执行：`pyftsubset aaa.ttf --text-file=3500常用字.txt --output-file=output_common_3500.ttf`
-
 - 执行：`python convert.py SourceHanSansSC-VF.woff2`
 - 执行：`pyftsubset SourceHanSansSC-VF.ttf --text="测试" --output-file=output_small.ttf`
 - 执行：`pyftsubset SourceHanSansSC-VF.ttf --text-file=3500常用字.txt --output-file=output_common_3500.ttf`
