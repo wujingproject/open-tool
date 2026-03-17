@@ -1,3 +1,6 @@
+
+3500常用字、7000常用字、7000常用字优化版，数据来源：https://github.com/DavidSheh/CommonChineseCharacter/tree/master
+
 # 使用 Python 进行字体格式转换
 
 ## 环境准备
